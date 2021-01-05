@@ -1,3 +1,5 @@
+# Switches course visibility for all courses in a given subaccount (recursive) for a given term.
+
 from canvasapi import Canvas
 from keys import C_URL, C_KEY
 import sys
