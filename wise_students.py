@@ -1,3 +1,5 @@
+# Takes in a CRN and returns a student import file for wise
+
 from canvasapi import Canvas
 from keys import C_URL, C_KEY
 import csv
